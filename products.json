@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Emerson SmartSet Alarm Clock Radio with Bluetooth Speaker, Charging Station/Phone Chargers with USB port for",
+      "price": 21000,
+      "status": "AVAILABLE",
+      "descriptions": {
+        "kondisi": "Baru",
+        "berat": 100,
+        "kategori": "Jam Dinding",
+        "information_product": "Dekorasi untuk memperindah interior mobil Anda. Dekorasi mobil tidak hanya hiasan namun juga berfungsi penuh untuk sebagai penunjuk jam sehingga Anda dapat melihat waktu dengan mudah tanpa perlu membuka smartphone ataupun media lainnya."
+      },
+      "image": "https://m.media-amazon.com/images/I/61zZuVm5tLL._AC_UL320_.jpg",
+      "detail_image": [
+        {"id":1, "image":"https://m.media-amazon.com/images/I/61zZuVm5tLL._AC_UL320_.jpg"},
+        {"id":2, "image":"https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/30/cf1db053-d22c-47b7-b694-987240de8d0c.jpg.webp?ect=4g"},
+        {"id":3, "image":"https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/26/42029630-6364-4a79-8be2-40118c01f391.jpg.webp?ect=4g"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bernhard Products Analog Alarm Clock 4 Twin Bell Black Silent Non-Ticking Quartz Battery Operated Extra Loud with",
+      "price": 45000,
+      "status": "AVAILABLE",
+      "image": "https://m.media-amazon.com/images/I/81UXbaYZJ5L._AC_UL320_.jpg",
+      "descriptions": {
+        "kondisi": "Baru",
+        "berat": 100,
+        "kategori": "Jam Dinding",
+        "information_product": "Dekorasi untuk memperindah interior mobil Anda. Dekorasi mobil tidak hanya hiasan namun juga berfungsi penuh untuk sebagai penunjuk jam sehingga Anda dapat melihat waktu dengan mudah tanpa perlu membuka smartphone ataupun media lainnya."
+      },
+      "detail_image": [
+        {"id":1, "image":"https://m.media-amazon.com/images/I/61zZuVm5tLL._AC_UL320_.jpg"},
+        {"id":2, "image":"https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/30/cf1db053-d22c-47b7-b694-987240de8d0c.jpg.webp?ect=4g"},
+        {"id":3, "image":"https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/26/42029630-6364-4a79-8be2-40118c01f391.jpg.webp?ect=4g"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "4 Inch Wooden Analog Alarm Clock Battery Operated Non-Ticking with Snooze Button,Night Light,Gentle Wake",
+      "price": 9000,
+      "status": "AVAILABLE",
+      "image": "https://m.media-amazon.com/images/I/615MlXcJeIL._AC_UL320_.jpg",
+      "descriptions": {
+        "kondisi": "Baru",
+        "berat": 100,
+        "kategori": "Jam Dinding",
+        "information_product": "Dekorasi untuk memperindah interior mobil Anda. Dekorasi mobil tidak hanya hiasan namun juga berfungsi penuh untuk sebagai penunjuk jam sehingga Anda dapat melihat waktu dengan mudah tanpa perlu membuka smartphone ataupun media lainnya."
+      },
+      "detail_image": [
+        {"id":1, "image":"https://m.media-amazon.com/images/I/61zZuVm5tLL._AC_UL320_.jpg"},
+        {"id":2, "image":"https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/30/cf1db053-d22c-47b7-b694-987240de8d0c.jpg.webp?ect=4g"},
+        {"id":3, "image":"https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/26/42029630-6364-4a79-8be2-40118c01f391.jpg.webp?ect=4g"}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Amazon Basics 12 Numbered Wall Clock - Black",
+      "price": 12400,
+      "status": "AVAILABLE",
+      "image": "https://m.media-amazon.com/images/I/71vaznXf17L._AC_UL320_.jpg",
+      "descriptions": {
+        "kondisi": "Baru",
+        "berat": 100,
+        "kategori": "Jam Dinding",
+        "information_product": "Dekorasi untuk memperindah interior mobil Anda. Dekorasi mobil tidak hanya hiasan namun juga berfungsi penuh untuk sebagai penunjuk jam sehingga Anda dapat melihat waktu dengan mudah tanpa perlu membuka smartphone ataupun media lainnya."
+      },
+      "detail_image": [
+        {"id":1, "image":"https://m.media-amazon.com/images/I/61zZuVm5tLL._AC_UL320_.jpg"},
+        {"id":2, "image":"https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/30/cf1db053-d22c-47b7-b694-987240de8d0c.jpg.webp?ect=4g"},
+        {"id":3, "image":"https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/26/42029630-6364-4a79-8be2-40118c01f391.jpg.webp?ect=4g"}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "SEIKO Bright Stary Night Melodies in Motion",
+      "price": 18000,
+      "status": "AVAILABLE",
+      "image": "https://m.media-amazon.com/images/I/81dNgyKRBmL._AC_UL320_.jpg",
+      "descriptions": {
+        "kondisi": "Baru",
+        "berat": 100,
+        "kategori": "Jam Dinding",
+        "information_product": "Dekorasi untuk memperindah interior mobil Anda. Dekorasi mobil tidak hanya hiasan namun juga berfungsi penuh untuk sebagai penunjuk jam sehingga Anda dapat melihat waktu dengan mudah tanpa perlu membuka smartphone ataupun media lainnya."
+      },
+      "detail_image": [
+        {"id":1, "image":"https://m.media-amazon.com/images/I/61zZuVm5tLL._AC_UL320_.jpg"},
+        {"id":2, "image":"https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/30/cf1db053-d22c-47b7-b694-987240de8d0c.jpg.webp?ect=4g"},
+        {"id":3, "image":"https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/26/42029630-6364-4a79-8be2-40118c01f391.jpg.webp?ect=4g"}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Amazon Basics Small Digital Alarm Clock with LED Display, Nightlight and Battery Backup - 4.5 x 3.5 x 2.4 Inches",
+      "price": 35000,
+      "status": "AVAILABLE",
+      "image": "https://m.media-amazon.com/images/I/61j17FjPhtL._AC_UL320_.jpg",
+      "descriptions": {
+        "kondisi": "Baru",
+        "berat": 100,
+        "kategori": "Jam Dinding",
+        "information_product": "Dekorasi untuk memperindah interior mobil Anda. Dekorasi mobil tidak hanya hiasan namun juga berfungsi penuh untuk sebagai penunjuk jam sehingga Anda dapat melihat waktu dengan mudah tanpa perlu membuka smartphone ataupun media lainnya."
+      },
+      "detail_image": [
+        {"id":1, "image":"https://m.media-amazon.com/images/I/61zZuVm5tLL._AC_UL320_.jpg"},
+        {"id":2, "image":"https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/30/cf1db053-d22c-47b7-b694-987240de8d0c.jpg.webp?ect=4g"},
+        {"id":3, "image":"https://images.tokopedia.net/img/cache/100-square/VqbcmM/2021/6/26/42029630-6364-4a79-8be2-40118c01f391.jpg.webp?ect=4g"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+#login_page{
+  position: relative;
+  top: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 350px;
+  justify-content: space-between;
+}
+
+.logo_login{
+  font-size: 4.5rem;
+  color: #0d3f8f;
+}
+
+form{
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+
+.input_email{
+  width: 75%;
+}
+
+.input_password{
+  width: 75%;
+}
+
+.input_username{
+  width: 75%;
+}
+
+div input{
+  margin-bottom: 20px;
+  padding: 12px 5px;
+  width: 100%;
+  border-radius: 10px;
+  border: 2px solid #ccc;
+  outline: none;
+}
+
+
+div label{
+  display: block;
+  margin: 10px 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #083199;
+}
+
+form .btn_login{
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+
+button{
+  padding: 10px 30px;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  color: white;
+  background-color: #038f1a;
+  transition: all 1s;
+}
+
+button:hover{
+  background-color: #0526b5;
+}

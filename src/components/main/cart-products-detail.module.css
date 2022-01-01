@@ -1,0 +1,97 @@
+.title_cart{
+  margin-bottom: 15px;
+}
+
+.title_cart h2{
+  font-size: 1.1rem;
+}
+
+.count_products{
+  display: flex;
+  justify-content: center;
+}
+
+.count_input_type{
+  position: relative;
+}
+
+.count_input_type input{
+  padding: 5px 0;
+  width: 75%;
+  border-radius: 10px;
+  text-align: center;
+  border: none;
+  outline: none;
+  position: relative;
+}
+
+.count_input_type .add_count_product{
+  position: absolute;
+  top: 0;
+  left: 110px;
+  cursor: pointer;
+}
+
+.count_input_type .reduce_count_product{
+  position: absolute;
+  top: 0;
+  left: 5px;
+  cursor: pointer;
+}
+
+.sum_product h2{
+  font-size: 1.1rem;
+}
+
+.tambah_catatan{
+  margin-top: 20px;
+  min-height: 70px;
+  border: 1px solid #ddd;
+}
+
+.tambah_catatan h3{
+  margin-top: 10px;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.noted_input{
+  padding: 10px;
+  width: 100%;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.tambah_catatan h3{
+  color: #0dbf2b;
+}
+
+.subtotal_product{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+
+.add_to_cart{
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.add_to_cart button{
+  width: 75%;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 0.8rem;
+  background-color: #0dbf2b;
+  color: white;
+  transition: 1s;
+}
+
+.add_to_cart button:hover{
+  background-color: #c135fc;
+}
